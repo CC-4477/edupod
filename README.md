@@ -1,2 +1,2 @@
 # edupod
-edupod - student-led nonprofit
+edupod - a student-led nonprofit
